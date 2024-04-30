@@ -1,0 +1,14 @@
+{
+  "GlobalizationLocalization.EnglishLanguage": {
+    "direct use of language": "English value 1",
+    "some value here for localisation": "English value 2",
+    "localisation 1": "English value 3",
+    "localisation 2": "English value 4",
+    "localisation 3": "English value 5",
+    "localisation 4": "English value 6"
+  },
+  "GlobalizationLocalization.SinhalaLanguage": {
+    "alternative use of language": "Sinhala value 1",
+    "Example of use by property \u0022[] {x@]}": "Sinhala value 2"
+  }
+}
